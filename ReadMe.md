@@ -110,8 +110,6 @@ Why a junction table?
 - Normalized schema
 - Extensible (can add priority, metadata later)
 
----
-
 ## 🔐 Permissions Explanation
 
 ### Admin Role
@@ -140,8 +138,6 @@ Permissions were configured to:
 - Enforce business rules at backend level
 - Keep admin UI safe and simple
 
----
-
 ## ⚙️ Flows Explanation
 
 ### 1️⃣ Prevent Event Overbooking
@@ -159,8 +155,6 @@ Permissions were configured to:
 **Result**
 
 - Ensures no event exceeds its allowed capacity
-
----
 
 ### 2️⃣ Auto-Calculate `spots_remaining`
 
@@ -181,8 +175,6 @@ Why this approach?
 - Single source of truth
 - No counter drift
 - Safe against deletes and updates
-
----
 
 ## 🧠 Challenges Faced
 
