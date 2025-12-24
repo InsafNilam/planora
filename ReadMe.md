@@ -5,8 +5,6 @@ It demonstrates data modeling, permissions, business logic enforcement using Flo
 
 This project was created as part of a technical assessment to showcase practical usage of Directus as a headless CMS / backend platform.
 
----
-
 ## 🚀 Setup Instructions
 
 ### Prerequisites
