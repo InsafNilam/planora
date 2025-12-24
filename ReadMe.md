@@ -46,8 +46,6 @@ Email:    admin@example.com
 Password: password
 ```
 
----
-
 ## 🗂️ ERD Diagram (Data Model Overview)
 
 ### Core Entities
@@ -67,8 +65,6 @@ events ────< events_categories >──── categories
 - One event can have many registrations
 - One event can belong to many categories
 - One category can contain many events
-
----
 
 ## 🧱 Data Model Explanation
 
