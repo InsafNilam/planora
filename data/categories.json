@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Technology",
+    "slug": "technology"
+  },
+  {
+    "name": "Workshop",
+    "slug": "workshop"
+  },
+  {
+    "name": "Networking",
+    "slug": "networking"
+  },
+  {
+    "name": "Conference",
+    "slug": "conference"
+  },
+  {
+    "name": "Social",
+    "slug": "social"
+  }
+]

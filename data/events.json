@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Tech Innovators Meetup",
+    "description": "A meetup for developers to discuss emerging technologies.",
+    "event_date": "2025-02-15T10:00:00Z",
+    "location": "Colombo",
+    "capacity": 50,
+    "spots_remaining": 50,
+    "status": "published"
+  },
+  {
+    "id": 2,
+    "title": "Laravel Hands-on Workshop",
+    "description": "Practical Laravel workshop for beginners.",
+    "event_date": "2025-03-01T09:30:00Z",
+    "location": "Online",
+    "capacity": 30,
+    "spots_remaining": 30,
+    "status": "published"
+  },
+  {
+    "id": 3,
+    "title": "Startup Networking Night",
+    "description": "An evening to connect with founders and engineers.",
+    "event_date": "2025-03-10T18:00:00Z",
+    "location": "Bangalore",
+    "capacity": 100,
+    "spots_remaining": 100,
+    "status": "draft"
+  }
+]

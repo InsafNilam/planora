@@ -1,0 +1,8 @@
+# Ignore all files in the database directory
+database/*
+# Except for the .gitkeep file
+!database/.gitkeep
+
+.env
+.env.backup
+.env.production
